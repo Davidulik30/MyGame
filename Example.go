@@ -13,7 +13,7 @@ import (
 
 const (
 	screenWidth  = 320
-	screenHeight = 240
+	screenHeight = 10
 )
 
 var (
